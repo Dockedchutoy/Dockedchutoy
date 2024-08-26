@@ -1,4 +1,3 @@
-me = dockedchutoy;
-i like python;
-i learn python;
-yes
+im dockedchutoy
+
+i got nothing else to say, enjoy your stay
